@@ -1,0 +1,10 @@
+# IF THERE'S A GIT CONFLICT IN THIS FILE, DON'T SOLVE IT MANUALLY!
+# INSTEAD EXECUTE `prisma2 migrate fix`
+# Prisma Migrate lockfile v1
+# Read more about conflict resolution here: TODO
+
+20200315174358-xx
+20200316054538-yy
+20200316055831-zz
+20200316143022-oo
+20200317151521-aa

@@ -1,0 +1,15 @@
+datasource DS {
+  provider = "sqlite"
+  url = "***"
+}
+
+generator photonjs {
+  provider = "prisma-client-js"
+}
+
+model Post {
+  id        Int @id @default(autoincrement())
+  title     String
+  body      String
+  createdAt DateTime @default(now())
+}
